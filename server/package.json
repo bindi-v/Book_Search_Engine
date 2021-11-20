@@ -1,11 +1,11 @@
 {
-  "name": "Book_Search_Engine",
+  "name": "book_search_engine",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "watch": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,11 +17,14 @@
   "bugs": {
     "url": "https://github.com/bindi-v/Book_Search_Engine/issues"
   },
-  "homepage": "https://github.com/bindi-v/Book_Search_Engine#readme",
+  "homepage": "https://github.com/bindi-v/Book_Search_Engine",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
