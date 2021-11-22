@@ -80,11 +80,11 @@ A user can view their saved books on a separate page, as shown in the following 
 
 The following necessary dependencies must be installed to run the application.
 
- mongoDB Atlas, Express, mongoose, GraphQL, compression, apollo-server-express, Heroku
+ concurrently, node, nodemon as dev dependencies, mongoDB Atlas, Express, mongoose, GraphQL, jsonwebtoken, apollo-server-express, bcrypt, @apollo/client, bootstrap, react, react-dom, react-router-dom, react-scripts, react-bootstrap, jwt-decode,  Heroku
 
 ## Usage
 
- Application can be invoked by npm start or  node server.js command in terminal or user can use deployed to Heroku link to access application.
+ Application can be invoked by npm run develop command in terminal or user can use deployed to Heroku link to access application.
 
 ## Test
   N/A
