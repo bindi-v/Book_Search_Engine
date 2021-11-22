@@ -112,7 +112,7 @@ If you have any questions, please reach out to my Github.
 
 ### Deployed Link
 
-* [The URL to the deployed to Heroku application]()
+* [The URL to the deployed to Heroku application](https://obscure-shelf-56627.herokuapp.com/)
 
 * [The URL to the Github repository](https://github.com/bindi-v/Book_Search_Engine)
 
