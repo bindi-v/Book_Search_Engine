@@ -22,6 +22,5 @@
   "homepage": "https://github.com/bindi-v/Book_Search_Engine",
   "devDependencies": {
     "concurrently": "^6.4.0"
-  },
-  "dependencies": {}
+  }
 }
