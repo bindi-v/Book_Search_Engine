@@ -20,7 +20,7 @@
     "url": "https://github.com/bindi-v/Book_Search_Engine/issues"
   },
   "homepage": "https://github.com/bindi-v/Book_Search_Engine",
-  "devDependencies": {
-    "concurrently": "^6.4.0"
+  "dependencies": {
+    "concurrently": "^5.1.0"
   }
 }
